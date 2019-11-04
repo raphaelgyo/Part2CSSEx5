@@ -1,0 +1,11 @@
+body
+{
+  background-image: url("terminator.jpg");
+  background-repeat: no-repeat;
+}
+p
+{
+  background-color: #000000;
+  color: #FFFFFF;
+  opacity: 0.5;
+}
