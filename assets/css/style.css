@@ -1,0 +1,11 @@
+body {
+  background-image: url("../images/terminator.jpg");
+  background-repeat: no-repeat;
+}
+#terminator {
+  background-color: #FF0000;
+  color: #FFFFFF;
+  opacity: 50%;
+  font-family: arial; cursive;
+  font-size: 150%
+}
